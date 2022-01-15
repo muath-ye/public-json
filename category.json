@@ -1,0 +1,20 @@
+{
+  "success": true,
+  "data": [
+    {
+      "name": "All"
+    },
+    {
+      "name": "Hand Bags"
+    },
+    {
+      "name": "Foot wears"
+    },
+    {
+      "name": "Jewelries"
+    },
+    {
+      "name": "Brands"
+    }
+  ]
+}
