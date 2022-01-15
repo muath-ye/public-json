@@ -4,7 +4,7 @@
     {
       "name": "Belt Bag",
       "description": "This item is for demo project and its description can be modified for every item as needed.",
-      "image": "http://127.0.0.1:8000/uploads/products/bag_1.png",
+      "image": "https://raw.githubusercontent.com/muath-ye/public-json/father/uploads/products/bag_1.png",
       "price": "18.0",
       "size": "12 cm",
       "category": "All"
@@ -12,7 +12,7 @@
     {
       "name": "Office Bag",
       "description": "This item is for demo project and its description can be modified for every item as needed.",
-      "image": "http://127.0.0.1:8000/uploads/products/bag_2.png",
+      "image": "https://raw.githubusercontent.com/muath-ye/public-json/father/uploads/products/bag_2.png",
       "price": "19.0",
       "size": "12 cm",
       "category": "All"
@@ -20,7 +20,7 @@
     {
       "name": "Work Bag",
       "description": "This item is for demo project and its description can be modified for every item as needed.",
-      "image": "http://127.0.0.1:8000/uploads/products/bag_3.png",
+      "image": "https://raw.githubusercontent.com/muath-ye/public-json/father/uploads/products/bag_3.png",
       "price": "19.0",
       "size": "14 cm",
       "category": "All"
@@ -28,7 +28,7 @@
     {
       "name": "Shopping Bag",
       "description": "This item is for demo project and its description can be modified for every item as needed.",
-      "image": "http://127.0.0.1:8000/uploads/products/bag_4.png",
+      "image": "https://raw.githubusercontent.com/muath-ye/public-json/father/uploads/products/bag_4.png",
       "price": "23.0",
       "size": "16 cm",
       "category": "All"
@@ -36,7 +36,7 @@
     {
       "name": "Party Bag",
       "description": "This item is for demo project and its description can be modified for every item as needed.",
-      "image": "http://127.0.0.1:8000/uploads/products/bag_5.png",
+      "image": "https://raw.githubusercontent.com/muath-ye/public-json/father/uploads/products/bag_5.png",
       "price": "17.0",
       "size": "12 cm",
       "category": "All"
@@ -44,7 +44,7 @@
     {
       "name": "Hang Top",
       "description": "This item is for demo project and its description can be modified for every item as needed.",
-      "image": "http://127.0.0.1:8000/uploads/products/bag_6.png",
+      "image": "https://raw.githubusercontent.com/muath-ye/public-json/father/uploads/products/bag_6.png",
       "price": "17.0",
       "size": "13 cm",
       "category": "All"
