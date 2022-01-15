@@ -1,6 +1,4 @@
-{
-  "success": true,
-  "data": [
+[
     {
       "name": "Belt Bag",
       "description": "This item is for demo project and its description can be modified for every item as needed.",
@@ -49,5 +47,4 @@
       "size": "13 cm",
       "category": "All"
     }
-  ]
-}
+]
