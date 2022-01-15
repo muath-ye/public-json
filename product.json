@@ -1,5 +1,6 @@
 [
     {
+      "id": 1,
       "name": "Belt Bag",
       "description": "This item is for demo project and its description can be modified for every item as needed.",
       "image": "https://raw.githubusercontent.com/muath-ye/public-json/father/uploads/products/bag_1.png",
@@ -9,6 +10,7 @@
       "category": "All"
     },
     {
+      "id": 2,
       "name": "Office Bag",
       "description": "This item is for demo project and its description can be modified for every item as needed.",
       "image": "https://raw.githubusercontent.com/muath-ye/public-json/father/uploads/products/bag_2.png",
@@ -18,6 +20,7 @@
       "category": "All"
     },
     {
+      "id": 3,
       "name": "Work Bag",
       "description": "This item is for demo project and its description can be modified for every item as needed.",
       "image": "https://raw.githubusercontent.com/muath-ye/public-json/father/uploads/products/bag_3.png",
@@ -27,6 +30,7 @@
       "category": "All"
     },
     {
+      "id": 4,
       "name": "Shopping Bag",
       "description": "This item is for demo project and its description can be modified for every item as needed.",
       "image": "https://raw.githubusercontent.com/muath-ye/public-json/father/uploads/products/bag_4.png",
@@ -36,6 +40,7 @@
       "category": "All"
     },
     {
+      "id": 5,
       "name": "Party Bag",
       "description": "This item is for demo project and its description can be modified for every item as needed.",
       "image": "https://raw.githubusercontent.com/muath-ye/public-json/father/uploads/products/bag_5.png",
@@ -45,6 +50,7 @@
       "category": "All"
     },
     {
+      "id": 6,
       "name": "Hang Top",
       "description": "This item is for demo project and its description can be modified for every item as needed.",
       "image": "https://raw.githubusercontent.com/muath-ye/public-json/father/uploads/products/bag_6.png",
